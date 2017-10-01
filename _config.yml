@@ -27,5 +27,5 @@ author:
 # Custom vars
 version:             1.0.1
 
-gems:
+plugins:
   - jekyll-paginate
